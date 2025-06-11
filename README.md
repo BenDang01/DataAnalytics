@@ -1,10 +1,10 @@
 # Benjamin Dang - Data Analytics Portfolio
 ## About
-Hi, I'm Ben – a passionate data analytics enthusiast with a strong interest in uncovering insights and solving problems through data.
+Hi, I'm Ben – I have a strong interest in uncovering insights and solving problems through data. This is a repository to showcase skills, and share my projects.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
-This is a repository to showcase skills, share my projects.
+
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
