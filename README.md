@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Ben – I have a strong interest in uncovering insights and solving problems through data. This is a repository to showcase skills and share my projects.
 
-My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQpEN9/view?usp=drive_link).
+My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQpEN9/view?usp=sharing).
 
 
 
