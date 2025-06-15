@@ -7,21 +7,21 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
 
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/BenDang01/Data-Analytics-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/BenDang01/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Predicting Song Popularity from Spotify Dataset](https://github.com/BenDang01/Project/blob/bd23344b7b4a21ef3c04851fa907b253b8063bce/Predicting%20Song%20Popularity%20from%20Spotify%20Dataset.ipynb)
+    - [Predicting Song Popularity from Spotify Dataset](https://github.com/BenDang01/Data-Analytics-Portfolio#predicting-song-popularity-from-Spotify-Dataset)
     - [Social Media Behaviors Among Students]()  
   - SQL
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Tableau
   - Power BI
   
 
 
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects briefly and describe the data stack used to solve cases.
 
 ### Predicting Song Popularity from Spotify Dataset
 **Code:** [`Predicting Song Popularity from Spotify Dataset.ipynb`](https://github.com/BenDang01/Project/blob/bd23344b7b4a21ef3c04851fa907b253b8063bce/Predicting%20Song%20Popularity%20from%20Spotify%20Dataset.ipynb)
