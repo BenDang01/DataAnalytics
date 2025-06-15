@@ -7,10 +7,10 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
 
 
 ## Table of Contents
-- [About](https://github.com/BenDang01/Data-Analytics-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/BenDang01/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
+- [About]()
+- [Portfolio Projects]()
   - Python
-    - [Predicting Song Popularity from Spotify Dataset](https://github.com/BenDang01/Data-Analytics-Portfolio#predicting-song-popularity-from-Spotify-Dataset)
+    - [Predicting Song Popularity from Spotify Dataset]()
     - [Social Media Behaviors Among Students]()  
   - SQL
   - Excel / Google Sheets
