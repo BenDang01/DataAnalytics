@@ -7,7 +7,7 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
 
 
 ## Table of Contents
-- [About]()
+- [About](#about)
 - [Portfolio Projects]()
   - Python
     - [Predicting Song Popularity from Spotify Dataset]()
