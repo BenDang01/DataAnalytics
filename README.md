@@ -8,14 +8,14 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects]()
-  - Python
-    - [Predicting Song Popularity from Spotify Dataset]()
-    - [Social Media Behaviors Among Students]()  
-  - SQL
-  - Excel / Google Sheets
-  - Tableau
-  - Power BI
+- [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
+    - [Predicting Song Popularity from Spotify Dataset](#predicting-song-popularity-from-spotify-dataset)
+    - [Social Media Behaviors Among Students](#social-media-behaviors-among-students)
+  - [SQL]
+  - [Excel / Google Sheets]
+  - [Tableau]
+  - [Power BI]
   
 
 
