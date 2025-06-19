@@ -15,7 +15,7 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
   - [SQL]
     - [Bank Customer Churn](#bank-customer-churn)
   - [Excel / Google Sheets]
-  - [Tableau]
+  - [Tableau](https://public.tableau.com/app/profile/benjamin.dang/vizzes)
   - [Power BI]
   
 
