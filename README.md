@@ -13,6 +13,7 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
     - [Predicting Song Popularity from Spotify Dataset](#predicting-song-popularity-from-spotify-dataset)
     - [Social Media Behaviors Among Students](#social-media-behaviors-among-students)
   - [SQL]
+    - [Bank Customer Churn](#bank-customer-churn)
   - [Excel / Google Sheets]
   - [Tableau]
   - [Power BI]
@@ -50,3 +51,18 @@ In this section I will list data analytics projects briefly and describe the dat
 **Data Package:** Python, Pandas, Numpy, SciPy, Seaborn, Matplotlib, Plotly.
 
 **Results:** The analysis revealed meaningful associations between heavy social media use and lower academic performance, as well as increased reports of stress and anxiety. Relationship status showed some patterns of usage variation, though with less pronounced effects.
+
+
+
+### Bank Customer Churn
+**Code:** [`Bank Customer Churn.sql`](https://github.com/BenDang01/Project/blob/main/Bank%20Custmer%20Churn.sql)
+
+**Goal:** To identify key factors influencing customer churn and provide actionable insights to improve customer retention.
+
+**Description:** This project analyses a bank's customer dataset to uncover trends and patterns associated with churn. Using SQL, it segments customers, performs aggregations, and applies conditional logic to investigate relationships between churn and variables such as tenure, balance, credit score, and geography.
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Data Package:** SQL Server.
+
+
