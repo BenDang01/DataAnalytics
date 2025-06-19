@@ -12,7 +12,7 @@ My Resume in [pdf](https://drive.google.com/file/d/17PnKPalYmj1tICfdNd8Dltvei6TQ
   - [Python](#python)
     - [Predicting Song Popularity from Spotify Dataset](#predicting-song-popularity-from-spotify-dataset)
     - [Social Media Behaviors Among Students](#social-media-behaviors-among-students)
-  - [SQL]
+  - [SQL](#sql)
     - [Bank Customer Churn](#bank-customer-churn)
   - [Excel / Google Sheets]
   - [Tableau](https://public.tableau.com/app/profile/benjamin.dang/vizzes)
